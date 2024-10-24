@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jens28
-- 👀 I’m interested in Cyber Security and Artificial Intelligence
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on different beginner projects
+Hi, I’m @Jens28
+M.Sc. Student in Management Information System
+Research Assistant at University Regensburg
+Interested in Data Science and Explainable AI
 
 <!---
 Jens28/Jens28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
